@@ -1,0 +1,57 @@
+{
+  "restaurant": [
+    {
+      "name": "Abhinav restro",
+      "email": "abhinav@gmail.com",
+      "address": "Bhawarkua",
+      "cno": "846455454554",
+      "id": 2
+    },
+    {
+      "name": "ABCD Restaurant",
+      "email": "abcrestro@gmail.com",
+      "address": "Jaipur",
+      "cno": "589456468",
+      "id": 3
+    },
+    {
+      "name": "chai sutta bar",
+      "email": "chai@gmail.com",
+      "address": "Geeta Bhavan, Indore",
+      "cno": "456468354",
+      "id": 4
+    },
+    {
+      "name": "Vicky Restro",
+      "email": "vickymangroliya7203@gmail.com",
+      "address": "Bhawarkua, Indore",
+      "cno": "5655655238",
+      "co,no": "7884684645",
+      "id": 5
+    },
+    {
+      "name": "Amit Restro",
+      "email": "amitgour7354@gmail.com",
+      "address": "Bhawarkua",
+      "cno": "995664357",
+      "co,no": "94645486",
+      "id": 6
+    },
+    {
+      "name": "Amit ka Dhaba",
+      "email": "amitgour7354@gmail.com",
+      "address": "60 feet Road, Indore",
+      "cno": "84687445",
+      "co,no": "35445421",
+      "id": 7
+    },
+    {
+      "name": "Oee Pappe",
+      "email": "oeepappe@gmail.com",
+      "address": "Sai Ram Plaza, Bhawarkua, Indore",
+      "cno": "2656546",
+      "con": "6546487",
+      "id": 8
+    }
+  ]
+}
